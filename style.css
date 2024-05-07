@@ -1,0 +1,35 @@
+#tema{
+    color: black;
+    text-align: left;
+    font-size: 28px;
+}
+
+body{
+    background: black;
+    text-align: center;
+    margin: 5%;
+    background-image: url(https://images.unsplash.com/photo-1616712134411-6b6ae89bc3ba?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D);
+}
+p{ 
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+#esplicacao{ 
+    color:white;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+#esplicacao2{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+#esplicacao3{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+}
+

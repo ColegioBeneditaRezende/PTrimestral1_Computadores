@@ -1,0 +1,117 @@
+
+#sla {
+    color: white;
+    text-align: left;
+    font-size: 28px;
+} 
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2020/01/23/18/21/milky-way-4788414_1280.jpg);
+    text-align: center;
+    margin: 5%;
+    scrollbar-width: thin;
+  
+} 
+
+p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#esplicacao {
+    color: white;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+
+#esplicacao2 {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+
+}
+
+#esplicacao3 {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+}
+.container{
+    max-width: 1280px;
+    margin: auto;
+}
+
+header i{
+    font-size: 30px;
+    color: white;
+}
+
+header ul{
+    list-style-type: none;
+
+}
+
+header ul li {
+        display: inline-block;
+    margin: 0 40px;
+}
+header ul li a {
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+    
+.flex {
+    align-items: center;
+    justify-content: space-between;
+}
+header{
+    text-align: center;
+    padding: 60px 4%;
+    align-items: center;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    color: red;
+    
+ }
+ header.rolagem{
+    background-color: black;
+    padding: 10px 4%;
+ }
+ header.rolagem a, header.rolagem ul{
+ color: white;
+ font-size: 22px;
+ }
+ #vinicius{
+    color: gold ;
+ }
+ ::-webkit-scrollbar{
+    background-color: purple;
+
+ }
+ ::-webkit-scrollbar-button{
+    background-color: black;
+
+ }
+ ::-webkit-scrollbar-track{
+    background-color: black;
+ }
+ ::-webkit-scrollbar-thumb{
+    background-color: purple;
+    border-radius: 20px;
+    width: 10px;
+ }
+ html{
+    scrollbar-width: thin;
+ }
+ 
+ 
